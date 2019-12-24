@@ -1,0 +1,16 @@
+{
+  "name": "g45",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.linux.iastate.edu/fall2019-cs319-gitprojects/g45.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
